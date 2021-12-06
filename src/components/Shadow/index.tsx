@@ -1,8 +1,8 @@
 import * as S from './styles'
 
 const Main = ({
-  title = 'Main page is like this',
-  description = 'hello',
+  title = 'This is a Shadow Page',
+  description = 'To test',
 }) => (
   <S.Wrapper>
     <S.Title>{title}</S.Title>
